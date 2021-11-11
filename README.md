@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anjula, a software developer and designer.
+- 👋 Hi, I’m Anjula,frontend developer and designer.
 - 👀 I’m interested in learning new things and coding all day.
-- 🌱 I’m currently learning React, figma and nodeJs.
+- 🌱 I’m currently learning React,nodeJs and data structure.
 
 - 📫 you can reach me through anjula.ghale@gamil.com
 
