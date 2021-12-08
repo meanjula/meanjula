@@ -22,6 +22,7 @@
 ## 🧰 Languages and Tools:
 
 <div align="center">
+ <img src="https://toppng.com/uploads/preview/html5-logo-vector-free-download-11574222422da5narngo7.png" alt="html5 logo vector" height="35" width="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" alt="css" height="35" width="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="35" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="35" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -29,7 +30,7 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" height="35" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="35" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-UI" height="35" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src="https://toppng.com/uploads/preview/html5-logo-vector-free-download-11574222422da5narngo7.png" alt="html5 logo vector" height="35" width="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+
 
 </div>
 
@@ -37,7 +38,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=meanjula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=meanjula&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+1. <img  src="https://github-readme-streak-stats.herokuapp.com?user=meanjula&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanjula&layout=compact&theme=dark&hide_border=true" />
  </div>
 
