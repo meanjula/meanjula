@@ -4,11 +4,10 @@
 
 ## I am Anjula, Software Developer and Designer.
 
-- 👨🏽‍💻 I’m currently learning React,nodeJs and express.
 - 🌱 I'm doing Full Stack Web Developer program in Business College, Helsinki.
-- 👀 I’m interested in learning new things and coding all day.
+- 👨🏽‍💻 currently learning React,nodeJs and express.
+- 👀 Interested in learning new things and coding all day.
 - 👯 I would love to collaborate/contribute on any interesting project.
-- 📫 you can reach me through anjula.ghale@gamil.com
 
 ## ✉️ Let's connect:
 
