@@ -1,8 +1,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=meanjula.meanjula)
 
-# Cheers 👋 👨🏽‍💻
+# Hello Everyone 👋 👨🏽‍💻
 
-## I am Anjula, Software Developer and Designer.
+## I am Anjula, a software developer and a designer.
 
 - 🌱 I'm doing Full Stack Web Developer program in Business College, Helsinki.
 - 👨🏽‍💻 currently learning React,nodeJs and express.
