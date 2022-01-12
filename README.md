@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=meanjula.meanjula)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=meanjula.meanjula)
 
 # Hello Everyone 👋 👨🏽‍💻
 
