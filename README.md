@@ -19,7 +19,7 @@
 
 </p>
 
-##💻Languages and Tools:
+## 💻Languages and Tools:
 
 <div align="center">
  <img src="https://toppng.com/uploads/preview/html5-logo-vector-free-download-11574222422da5narngo7.png" alt="html5 logo vector" height="35" width="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
