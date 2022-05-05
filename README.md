@@ -2,10 +2,10 @@
 
 # Hello Everyone 👋 👨🏽‍💻
 
-## I am Anjula, a software developer and a designer.
+## I am a dedicated Software Developer and a creative UI Designer.
 
 - 🌱 I'm doing Full Stack Web Developer program in Business College, Helsinki.
-- 👨🏽‍💻 currently learning React,nodeJs and express.
+- 👨🏽‍💻 currently learning Redux, Nodejs, Typescript.
 - 👀 Interested in learning new things and coding all day.
 - 👯 I would love to collaborate/contribute on any interesting project.
 
