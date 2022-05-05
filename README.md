@@ -14,7 +14,7 @@
 <div align="left">
  
  <a href="https://www.linkedin.com/in/meanjula" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="website"  style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
-<a href="mailto: anjula.ghale@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  style="vertical-align:top; margin:10px"></a>
+<!--- <a href="mailto: anjula.ghale@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  style="vertical-align:top; margin:10px"></a> --->
 </div>
 
 ### 
