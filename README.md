@@ -69,6 +69,7 @@
  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" style="max-  width:100%">&nbsp;&nbsp;  
  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="trello" style="max-width:100%">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Github%20Copilot-purple?style=for-the-badge&logo=githubcopilot" alt="Copilot" style="max-width:100%">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira" alt="Jira" style="max-width:100%">&nbsp;&nbsp;
  </div>
  
  ### Testing library:
