@@ -4,9 +4,9 @@
 
 ## I am a dedicated Software Developer and a creative UI Designer.
 
-- 🌱 I'm doing Full Stack Web Developer program in Business College, Helsinki.
-- 👨🏽‍💻 currently learning Redux, Nodejs, Typescript.
-- 👀 Interested in learning new things and coding all day.
+- 🌱 I'm a Full Stack Web Developer in Helsinki.
+- 👨🏽‍💻 currently working with TypeScript, React, and Node.js.
+- 🚀 Interested in AI dev tools, open source, vibe coding, LLM applications.
 - 👯 I would love to collaborate/contribute on any interesting project.
 
 ### Social Media:
