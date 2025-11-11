@@ -61,8 +61,9 @@
  <div align="left">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"  height="35" width="40"style="max-width:100%">
  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" style="max-width:100%">
+  <img src="https://img.shields.io/badge/Azure-Portal-blue" alt="netlify" style="max-width:100%">
  </div>
- 
+
  ### Devops tools:  
  <div align="left">
  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" style="max-width:100%">&nbsp;&nbsp;  
