@@ -47,6 +47,7 @@
 <div align="left">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"  style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Strapi-%234945FF?style=for-the-badge&logo=strapi" alt="Strapi" style="vertical-align:top; margin:4px">
 </div>
 
  ### Databases:
@@ -55,6 +56,7 @@
  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase"  style="max-width:100%">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="max-width:100%">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"  style="max-width:100%">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Neon-green?style=for-the-badge&logo=neon" alt="Neon"  style="max-width:100%"> 
 </div>
 
 ### Cloud and Web hosting
