@@ -4,8 +4,8 @@
 
 ## I am a dedicated Software Developer and a creative UI Designer.
 
-- 🌱 I'm a Full Stack Web Developer in Helsinki.
-- 👨🏽‍💻 currently working with TypeScript, React, and Node.js.
+- 🌱 I'm a Full Stack Web Developer loacted in Helsinki.
+- 👨🏽‍💻 My current tech stack includes TypeScript, React, and Node.js.
 - 🚀 Interested in AI dev tools, open source, vibe coding, LLM applications.
 - 👯 I would love to collaborate/contribute on any interesting project.
 
