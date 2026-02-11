@@ -20,9 +20,7 @@
 ### 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=meanjula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
-<!--- <img  src="https://github-readme-streak-stats.herokuapp.com?user=meanjula&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> --->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanjula&layout=compact&theme=dark&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meanjula&theme=react" alt="GitHub Streak" /></a>
  </div>
 
 ## 💻Languages and Tools:
