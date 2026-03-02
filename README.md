@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled component"  style="max-width:100%">
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" style="max-width:100%">  
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="max-width:100%">
+ <img src="https://img.shields.io/badge/Lovable-pink?style=for-the-badge" alt="Lovable" style="max-width:100%">
 </div>
 
 ### Backend skills:
