@@ -17,6 +17,9 @@
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anjula.ghale@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="vertical-align:top; margin:10px">
  </a>
+ <a href="https://meanjula.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="mail" style="vertical-align:top; margin:10px">
+ </a>
 </div>
 
 ### 
